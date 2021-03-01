@@ -6,6 +6,7 @@
   
 
   body {
+    background-image: linear-gradient(yellow, rgb(255, 255, 255));
     font-family: "Raleway", sans-serif;
   }
   
